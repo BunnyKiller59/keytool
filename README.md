@@ -11,9 +11,14 @@ keys liste :
 8) CLion Key
 9) dotMemory Key
 :::::::::::::::::::::::::::::::How it works ::::::::::::::::::::::::
+
 I)- Make sure Phython are installed into your PC
+
    II)- click on Win+R & write CMD or Open CMD as admin
+   
      III)- Make sure "toolkey.Bunnykiller.py" on Download File
+     
 VI)- write cd Downloads
+
    & run tool with "python toolkey.Bunnykiller.Py"
        
